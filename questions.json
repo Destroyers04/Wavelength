@@ -1,0 +1,10 @@
+[
+    {
+        "Category 1" : "Hot",
+        "Category 2" : "Cold"
+    },
+    {
+        "Category 1" : "Sandwhich",
+        "Category 2" : "Not a Sandwhich"
+    }
+]
